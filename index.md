@@ -32,6 +32,7 @@
 ### 可視化
 - [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
 - [Demos for gnuplot](http://gnuplot.sourceforge.net/demo_5.4/)
+- [Gnuplot.jl](https://lazarusa.github.io/gnuplot-examples/gallery/)
 
 ### 高速化・並列計算
 - [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
@@ -97,5 +98,5 @@
 - [Energy-consistent pseudopotentials for QMC calculations](http://burkatzki.com/pseudos/index.2.html)
 
 ### ベンチマーク
-- [Computational Chemistry Comparison and Benchmark DataBase(CCCBDB)](https://cccbdb.nist.gov/)
+- [Computational Chemistry Comparison and Benchmark DataBase (CCCBDB)](https://cccbdb.nist.gov/)
 - [Benchmark Energy & Geometry Database (BEGDB)](http://www.begdb.com/index.php)
