@@ -19,13 +19,13 @@
 
 ## プログラミング
 
-### インストール
+### インストール *加筆予定
 - [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
 - [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
 - [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
 - [gnuplot](http://www.compe.media.kyoto-u.ac.jp/syoseki/windows/windows-gnuplot.html)
 
-### コーディング
+### コーディング *加筆予定
 - [Fortran](https://www.nag-j.co.jp/fortran/index.html)
 - [Julia](https://github.com/bicycle1885/Julia-Tutorial)
 
@@ -106,12 +106,19 @@
 - [Computational Chemistry Comparison and Benchmark DataBase (CCCBDB)](https://cccbdb.nist.gov/)
 - [Benchmark Energy & Geometry Database (BEGDB)](http://www.begdb.com/index.php)
 
-### 計算値データベース
+### 結晶構造データベース
 - [The Materials Project](https://materialsproject.org/)
+- [AFLOW](http://www.aflow.org/)
 
-### オンラインツール
+### 計算値データベース
+- [NOMAD](https://nomad-coe.eu/)
+- [OQMD](http://oqmd.org/)
+
+### オンライン数値計算
 - [リスト](http://acetaminophen.hatenablog.com/entry/2015/04/20/153903)
+- [WebMO](http://pc-chem-basics.blog.jp/archives/1233772.html)
+
+### 可視化
 - [GLmol](https://webglmol.osdn.jp/index-ja.html)
 - [JSmol](https://katakago.sakura.ne.jp/soft/jsmol/index.html)
 - [3Dmol.js](https://omedstu.jimdofree.com/2018/03/04/3dmol-js%E3%81%A7%E3%81%AE%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%81%AE%E8%A1%A8%E7%A4%BA/)
-- [WebMO](http://pc-chem-basics.blog.jp/archives/1233772.html)
