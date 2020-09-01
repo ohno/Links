@@ -43,6 +43,7 @@
 ## プレゼンテーション
 
 ### 配色
+- [配色パターン集](https://webdesign-trends.net/entry/11846#3)
 - [Color Hunt](https://colorhunt.co/palettes/popular)
 - [HUE/360](https://hue360.herokuapp.com/)
 - [RGBと16進数カラーコードの相互変換ツール](https://www.peko-step.com/tool/tfcolor.html)
@@ -52,7 +53,7 @@
 - [ベクタ画像](https://publicdomainvectors.org/)
 - [アイコン](https://icooon-mono.com/)
 
-## 第一原理計算
+## 研究
 
 ### 数値計算手法一覧
 - [強相関系](https://www.cond-mat.de/events/correl.html)
@@ -88,15 +89,28 @@
 - [CASINO](https://vallico.net/casinoqmc/)
 - [XDMC](https://github.com/miicck/xdmc)
 - [TurboRVB](https://people.sissa.it/~sorella/TurboRVB_Manual/build/html/index.html)
+- [MateriApps](https://ma.issp.u-tokyo.ac.jp/app/)
 
-### 基底関数
+## オンラインツール
+
+### 基底関数データベース
 - [Gaussian 日本語マニュアル](https://www.hpc.co.jp/chem/software/gaussian/help/basis_sets/)
 - [Basis Set Exchange](https://www.basissetexchange.org/)
 
-### 擬ポテンシャル
+### 擬ポテンシャルデータベース
 - [Pseudopotential Library](https://pseudopotentiallibrary.org/)
 - [Energy-consistent pseudopotentials for QMC calculations](http://burkatzki.com/pseudos/index.2.html)
 
-### ベンチマーク
+### ベンチマークデータベース
 - [Computational Chemistry Comparison and Benchmark DataBase (CCCBDB)](https://cccbdb.nist.gov/)
 - [Benchmark Energy & Geometry Database (BEGDB)](http://www.begdb.com/index.php)
+
+### 計算値データベース
+- [The Materials Project](https://materialsproject.org/)
+
+### オンラインツール
+- [リスト](http://acetaminophen.hatenablog.com/entry/2015/04/20/153903)
+- [GLmol](https://webglmol.osdn.jp/index-ja.html)
+- [JSmol](https://katakago.sakura.ne.jp/soft/jsmol/index.html)
+- [3Dmol.js](https://omedstu.jimdofree.com/2018/03/04/3dmol-js%E3%81%A7%E3%81%AE%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%81%AE%E8%A1%A8%E7%A4%BA/)
+- [WebMO](http://pc-chem-basics.blog.jp/archives/1233772.html)
