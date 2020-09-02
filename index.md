@@ -23,6 +23,7 @@
 - [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
 - [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
 - [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
+- [Jupyter Notebook](https://stat-you1025.blogspot.com/2020/08/jupyter-julia.html)
 - [gnuplot](http://www.compe.media.kyoto-u.ac.jp/syoseki/windows/windows-gnuplot.html)
 
 ### コーディング *加筆予定
