@@ -5,58 +5,36 @@
 - [@EADGCGDA](https://twitter.com/i/events/1146083710006988800)
 - [molecules in the box](http://mike1336.web.fc2.com/)
 
-### 計算物理学入門
-- [Rutgers University](http://www.physics.rutgers.edu/grad/509/)
-- [University of Vienna](https://homepage.univie.ac.at/franz.vesely/cp_tut/nol2h/new/)
-- [The University of Texas at Austin](http://farside.ph.utexas.edu/teaching/329/lectures/lectures.html)
-- [Oregon State University](http://sites.science.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/)
-
 ### 解説記事
 - [シキノート](https://slpr.sakura.ne.jp/qp/home/program/)
 - [@genkuroki](https://gist.github.com/genkuroki)
 - [@cometscome_phys](https://qiita.com/cometscome_phys)
 - [Qiita](https://qiita.com/tags/%e6%95%b0%e5%80%a4%e8%a8%88%e7%ae%97)
 
-## プログラミング
+### 計算物理学入門
+- [Rutgers University](http://www.physics.rutgers.edu/grad/509/)
+- [University of Vienna](https://homepage.univie.ac.at/franz.vesely/cp_tut/nol2h/new/)
+- [The University of Texas at Austin](http://farside.ph.utexas.edu/teaching/329/lectures/lectures.html)
+- [Oregon State University](http://sites.science.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/)
 
-### インストール *加筆予定
-- [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
-- [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
-- [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
-- [Jupyter Notebook](https://stat-you1025.blogspot.com/2020/08/jupyter-julia.html)
-- [Jupyter Notebook](https://nbviewer.jupyter.org/github/genkuroki/msfd28/blob/master/install.ipynb#IJulia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-- [gnuplot](http://www.compe.media.kyoto-u.ac.jp/syoseki/windows/windows-gnuplot.html)
-
-### コーディング *加筆予定
-- [Fortran](https://www.nag-j.co.jp/fortran/index.html)
-- [Julia](https://github.com/bicycle1885/Julia-Tutorial)
-
-### 可視化
-- [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
-- [Demos for gnuplot](http://gnuplot.sourceforge.net/demo_5.4/)
-- [Gnuplot.jl](https://lazarusa.github.io/gnuplot-examples/gallery/)
-
-### 高速化・並列計算
-- [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
-- [OpenMP](https://www.nag-j.co.jp/openMP/openMPHelloOpenMP.html)
-- [計算科学技術特論B](https://www.r-ccs.riken.jp/library/event/tokuronB_2020.html)
-- [計算科学eラーニング](https://www.youtube.com/channel/UCIgMkEZoA5R_3StG1ZfjHvg/videos)
-
-## プレゼンテーション
-
-### 配色
-- [配色パターン集](https://webdesign-trends.net/entry/11846#3)
-- [夏のカラーコード](https://twitter.com/shin_5_9/status/1298108246029303809?s=20)
-- [Color Hunt](https://colorhunt.co/palettes/popular)
-- [HUE/360](https://hue360.herokuapp.com/)
-- [RGBと16進数カラーコードの相互変換ツール](https://www.peko-step.com/tool/tfcolor.html)
-
-### フリー素材
-- [写真](https://www.pexels.com/ja-jp/)
-- [ベクタ画像](https://publicdomainvectors.org/)
-- [アイコン](https://icooon-mono.com/)
 
 ## 研究
+
+### インターン
+- [PCoMSイノベーション創出人材育成事業](http://pcoms.issp.u-tokyo.ac.jp/events/images/1w1skq)
+
+### 奨学金
+- [JASSOの奨学金](https://www.jasso.go.jp/shogakukin/index.html)
+- [返さなくていい給付型奨学金をくれる団体](https://xn--kus49bd41h.net/archives/67540341.html)
+- [学振](https://www.jsps.go.jp/j-pd/)
+
+### 研究費
+- [学振](https://www.jsps.go.jp/j-pd/)
+- [AXT-X](https://www.jst.go.jp/kisoken/act-x/index.html)
+- [CREST](https://www.jst.go.jp/kisoken/crest/)
+- [さきがけ](https://www.jst.go.jp/kisoken/presto/)
+- [上記の研究提案募集一覧](https://www.jst.go.jp/kisoken/boshuu/teian.html)
+- [科研費](https://www.jsps.go.jp/j-grantsinaid/)
 
 ### 論文執筆
 - [Summaryの書き方](https://twitter.com/ToyamaYj/status/1042512038952484864?s=20)
@@ -98,6 +76,7 @@
 - [XDMC](https://github.com/miicck/xdmc)
 - [TurboRVB](https://people.sissa.it/~sorella/TurboRVB_Manual/build/html/index.html)
 
+
 ## オンラインツール
 
 ### 基底関数データベース
@@ -128,3 +107,49 @@
 - [GLmol](https://webglmol.osdn.jp/index-ja.html)
 - [JSmol](https://katakago.sakura.ne.jp/soft/jsmol/index.html)
 - [3Dmol.js](https://omedstu.jimdofree.com/2018/03/04/3dmol-js%E3%81%A7%E3%81%AE%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%81%AE%E8%A1%A8%E7%A4%BA/)
+
+### その他
+- [MathJax](https://www.mathjax.org/#gettingstarted)
+- [KaTeX](https://nshi.jp/contents/other/katex/)
+- [SVG](https://www.bicycle1885.org/blog/2020/blog-svg-test/)
+
+
+## プログラミング
+
+### インストール *加筆予定
+- [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
+- [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
+- [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
+- [Jupyter Notebook](https://stat-you1025.blogspot.com/2020/08/jupyter-julia.html)
+- [Jupyter Notebook](https://nbviewer.jupyter.org/github/genkuroki/msfd28/blob/master/install.ipynb#IJulia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+- [gnuplot](http://www.compe.media.kyoto-u.ac.jp/syoseki/windows/windows-gnuplot.html)
+
+### コーディング *加筆予定
+- [Fortran](https://www.nag-j.co.jp/fortran/index.html)
+- [Julia](https://github.com/bicycle1885/Julia-Tutorial)
+
+### 可視化
+- [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
+- [Demos for gnuplot](http://gnuplot.sourceforge.net/demo_5.4/)
+- [Gnuplot.jl](https://lazarusa.github.io/gnuplot-examples/gallery/)
+
+### 高速化・並列計算
+- [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
+- [OpenMP](https://www.nag-j.co.jp/openMP/openMPHelloOpenMP.html)
+- [計算科学技術特論B](https://www.r-ccs.riken.jp/library/event/tokuronB_2020.html)
+- [計算科学eラーニング](https://www.youtube.com/channel/UCIgMkEZoA5R_3StG1ZfjHvg/videos)
+
+
+## プレゼンテーション
+
+### 配色
+- [配色パターン集](https://webdesign-trends.net/entry/11846#3)
+- [夏のカラーコード](https://twitter.com/shin_5_9/status/1298108246029303809?s=20)
+- [Color Hunt](https://colorhunt.co/palettes/popular)
+- [HUE/360](https://hue360.herokuapp.com/)
+- [RGBと16進数カラーコードの相互変換ツール](https://www.peko-step.com/tool/tfcolor.html)
+
+### フリー素材
+- [写真](https://www.pexels.com/ja-jp/)
+- [ベクタ画像](https://publicdomainvectors.org/)
+- [アイコン](https://icooon-mono.com/)
