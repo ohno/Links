@@ -44,6 +44,7 @@
 
 ### 配色
 - [配色パターン集](https://webdesign-trends.net/entry/11846#3)
+- [夏のカラーコード](https://twitter.com/shin_5_9/status/1298108246029303809?s=20)
 - [Color Hunt](https://colorhunt.co/palettes/popular)
 - [HUE/360](https://hue360.herokuapp.com/)
 - [RGBと16進数カラーコードの相互変換ツール](https://www.peko-step.com/tool/tfcolor.html)
@@ -54,6 +55,9 @@
 - [アイコン](https://icooon-mono.com/)
 
 ## 研究
+
+### 論文執筆
+- [Summaryの書き方](https://twitter.com/ToyamaYj/status/1042512038952484864?s=20)
 
 ### 数値計算手法一覧
 - [強相関系](https://www.cond-mat.de/events/correl.html)
