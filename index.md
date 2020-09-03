@@ -34,7 +34,7 @@
 
 ### 研究費
 - [学振](https://www.jsps.go.jp/j-pd/)
-- [AXT-X](https://www.jst.go.jp/kisoken/act-x/index.html)
+- [AT-X](https://www.jst.go.jp/kisoken/act-x/index.html)
 - [CREST](https://www.jst.go.jp/kisoken/crest/)
 - [さきがけ](https://www.jst.go.jp/kisoken/presto/)
 - [上記の研究提案募集一覧](https://www.jst.go.jp/kisoken/boshuu/teian.html)
