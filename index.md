@@ -132,6 +132,10 @@
 - [Fortran](https://www.nag-j.co.jp/fortran/index.html)
 - [Julia](https://github.com/bicycle1885/Julia-Tutorial)
 
+### コーディング規約
+- [PEP8](https://pep8-ja.readthedocs.io/ja/latest/) (Python)
+- [Fortran 標準コーディングルール](https://www.mri-jma.go.jp/Project/mrinpd/coderule.html)
+
 ### 可視化
 - [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
 - [Demos for gnuplot](http://gnuplot.sourceforge.net/demo_5.4/)
