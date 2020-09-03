@@ -46,7 +46,7 @@
 ### 数値計算手法一覧
 - [強相関系](https://www.cond-mat.de/events/correl.html)
 
-### 関連する国内の研究室
+### 第一原理計算に関連する国内の研究室
 - [理化学研究所 計算科学研究センター](https://www.riken.jp/research/labs/r-ccs/)
   - [量子系物質科学研究チーム](https://www.riken.jp/research/labs/r-ccs/comput_mater_sci/index.html)
   - [量子系分子科学研究チーム](https://www.riken.jp/research/labs/r-ccs/comput_mol_sci/index.html)
