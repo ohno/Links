@@ -1,7 +1,18 @@
-## 数値計算リンク集
+<head>
+  <meta property="og:title" content="数値計算リンク集">
+  <meta property="og:description" content="数値計算の役に立つリンク集">
+  <meta property="og:url" content="https://ohno.github.io/Links/">
+  <meta property="og:image" content="https://repository-images.githubusercontent.com/289743707/df328300-ee08-11ea-95a7-3c78ed8209ae">
+  <meta property="og:site_name" content="数値計算リンク集">
+  <meta property="og:type" content="website">
+</head>
+
+# 数値計算リンク集
 
 おすすめのリンクがあったら[こちら](https://github.com/ohno/Links/issues)で教えてください.<br>
 [https://github.com/ohno](https://github.com/ohno) をフォローしてくれると喜びます.
+
+## 数値計算入門
 
 ### 数値計算アニメーション
 - [@ceptree](https://twitter.com/i/events/974005849608798208)
