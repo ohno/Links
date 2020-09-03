@@ -1,5 +1,8 @@
 ## 数値計算リンク集
 
+おすすめのリンクがあったら[こちら](https://github.com/ohno/Links/issues)で教えてください.
+https://github.com/ohno をフォローしてくれると喜びます.
+
 ### 数値計算アニメーション
 - [@ceptree](https://twitter.com/i/events/974005849608798208)
 - [@EADGCGDA](https://twitter.com/i/events/1146083710006988800)
