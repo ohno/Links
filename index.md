@@ -133,8 +133,8 @@
 - [Julia](https://github.com/bicycle1885/Julia-Tutorial)
 
 ### コーディング規約
-- [PEP8](https://pep8-ja.readthedocs.io/ja/latest/) (Python)
 - [Fortran 標準コーディングルール](https://www.mri-jma.go.jp/Project/mrinpd/coderule.html)
+- [PEP8](https://pep8-ja.readthedocs.io/ja/latest/) (Python)
 
 ### 可視化
 - [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
