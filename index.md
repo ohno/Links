@@ -139,10 +139,11 @@
 - [Fortran 標準コーディングルール](https://www.mri-jma.go.jp/Project/mrinpd/coderule.html)
 - [PEP8](https://pep8-ja.readthedocs.io/ja/latest/) (Python)
 
-### 可視化
+### 可視化サンプル集
 - [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
 - [Demos for gnuplot](http://gnuplot.sourceforge.net/demo_5.4/)
 - [Gnuplot.jl](https://lazarusa.github.io/gnuplot-examples/gallery/)
+- [D3](https://observablehq.com/@d3/gallery)
 
 ### 高速化・並列計算
 - [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
