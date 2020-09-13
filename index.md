@@ -114,6 +114,7 @@
 - [GLmol](https://webglmol.osdn.jp/index-ja.html)
 - [JSmol](https://katakago.sakura.ne.jp/soft/jsmol/index.html)
 - [3Dmol.js](https://omedstu.jimdofree.com/2018/03/04/3dmol-js%E3%81%A7%E3%81%AE%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%81%AE%E8%A1%A8%E7%A4%BA/)
+- [リスト](https://www.octoparse.jp/blog/top-30-data-visualization-tools/)
 
 ### その他
 - [MathJax](https://www.mathjax.org/#gettingstarted)
