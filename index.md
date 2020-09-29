@@ -128,6 +128,7 @@
 - [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
 - [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
 - [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
+- [Julia](https://github.com/cometscome/Julianotes/blob/master/julianote.md#2-julia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 - [Jupyter Notebook](https://stat-you1025.blogspot.com/2020/08/jupyter-julia.html)
 - [Jupyter Notebook](https://nbviewer.jupyter.org/github/genkuroki/msfd28/blob/master/install.ipynb#IJulia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 - [gnuplot](http://www.compe.media.kyoto-u.ac.jp/syoseki/windows/windows-gnuplot.html)
@@ -135,6 +136,8 @@
 ### コーディング *加筆予定
 - [Fortran](https://www.nag-j.co.jp/fortran/index.html)
 - [Julia](https://github.com/bicycle1885/Julia-Tutorial)
+- [Julia](https://github.com/cometscome/Julianotes/blob/master/julianote.md)
+- [Julia](https://qiita.com/cometscome_phys/items/31d0b811345a3e12fcef)
 
 ### コーディング規約
 - [Fortran 標準コーディングルール](https://www.mri-jma.go.jp/Project/mrinpd/coderule.html)
