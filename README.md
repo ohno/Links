@@ -1,1 +1,1 @@
-# https://ohno.github.io/Links/
+# https://ohno.github.io/link/
