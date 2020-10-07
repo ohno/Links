@@ -82,7 +82,7 @@
 - [強相関系](https://www.cond-mat.de/events/correl.html)
 
 ### 未解決問題
-- 化学[https://www.nature.com/collections/gijeadcheb?utm_source=twitter&utm_medium=social&utm_content=ads&utm_campaign=JJPN_1_KI01_JP_comchem_collection_openquestion]
+- [化学](https://www.nature.com/collections/gijeadcheb?utm_source=twitter&utm_medium=social&utm_content=ads&utm_campaign=JJPN_1_KI01_JP_comchem_collection_openquestion)
 
 ## オンラインツール
 
