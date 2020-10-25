@@ -78,13 +78,17 @@
 - [XDMC](https://github.com/miicck/xdmc)
 - [TurboRVB](https://people.sissa.it/~sorella/TurboRVB_Manual/build/html/index.html)
 
+### オンライン数値計算
+- [リスト](http://acetaminophen.hatenablog.com/entry/2015/04/20/153903)
+- [WebMO](http://pc-chem-basics.blog.jp/archives/1233772.html)
+
 ### 数値計算手法一覧
 - [強相関系](https://www.cond-mat.de/events/correl.html)
 
 ### 未解決問題
 - [化学](https://www.nature.com/collections/gijeadcheb?utm_source=twitter&utm_medium=social&utm_content=ads&utm_campaign=JJPN_1_KI01_JP_comchem_collection_openquestion)
 
-## オンラインツール
+## データベース
 
 ### 基底関数データベース
 - [Gaussian 日本語マニュアル](https://www.hpc.co.jp/chem/software/gaussian/help/basis_sets/)
@@ -94,33 +98,19 @@
 - [Pseudopotential Library](https://pseudopotentiallibrary.org/)
 - [Energy-consistent pseudopotentials for QMC calculations](http://burkatzki.com/pseudos/index.2.html)
 
-### ベンチマークデータベース
-- [Computational Chemistry Comparison and Benchmark DataBase (CCCBDB)](https://cccbdb.nist.gov/)
-- [Benchmark Energy & Geometry Database (BEGDB)](http://www.begdb.com/index.php)
+
+### 計算値・実験値データベース
+- [Computational Chemistry Comparison and Benchmark DataBase (各種物性, 計算値&実験値)](https://cccbdb.nist.gov/)
+- [Benchmark Energy & Geometry Database (エネルギー&構造)](http://www.begdb.com/index.php)
+- [NOMAD](https://nomad-coe.eu/)
+- [OQMD](http://oqmd.org/)
+- [The PubChemQC Project (構造最適化)](http://pubchemqc.riken.jp/)
+- [Chem Tube 3D (遷移構造)](https://www.chemtube3d.com/)
+- [CHESHIRE (NMRスペクトル)](http://cheshirenmr.info/)
 
 ### 結晶構造データベース
 - [The Materials Project](https://materialsproject.org/)
 - [AFLOW](http://www.aflow.org/)
-
-### 計算値データベース
-- [NOMAD](https://nomad-coe.eu/)
-- [OQMD](http://oqmd.org/)
-
-### オンライン数値計算
-- [リスト](http://acetaminophen.hatenablog.com/entry/2015/04/20/153903)
-- [WebMO](http://pc-chem-basics.blog.jp/archives/1233772.html)
-
-### 可視化
-- [GLmol](https://webglmol.osdn.jp/index-ja.html)
-- [JSmol](https://katakago.sakura.ne.jp/soft/jsmol/index.html)
-- [3Dmol.js](https://omedstu.jimdofree.com/2018/03/04/3dmol-js%E3%81%A7%E3%81%AE%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%81%AE%E8%A1%A8%E7%A4%BA/)
-- [リスト](https://www.octoparse.jp/blog/top-30-data-visualization-tools/)
-
-### その他
-- [MathJax](https://www.mathjax.org/#gettingstarted)
-- [KaTeX](https://nshi.jp/contents/other/katex/)
-- [SVG](https://www.bicycle1885.org/blog/2020/blog-svg-test/)
-
 
 ## プログラミング
 
@@ -147,7 +137,20 @@
 - [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
 - [Demos for gnuplot](http://gnuplot.sourceforge.net/demo_5.4/)
 - [Gnuplot.jl](https://lazarusa.github.io/gnuplot-examples/gallery/)
+- [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl)
 - [D3](https://observablehq.com/@d3/gallery)
+
+### JavaScript 可視化ライブラリ
+- [GLmol](https://webglmol.osdn.jp/index-ja.html)
+- [JSmol](https://katakago.sakura.ne.jp/soft/jsmol/index.html)
+- [3Dmol.js](https://omedstu.jimdofree.com/2018/03/04/3dmol-js%E3%81%A7%E3%81%AE%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%81%AE%E8%A1%A8%E7%A4%BA/)
+- [リスト](https://www.octoparse.jp/blog/top-30-data-visualization-tools/)
+
+### その他
+- [MathJax](https://www.mathjax.org/#gettingstarted)
+- [KaTeX](https://nshi.jp/contents/other/katex/)
+- [SVG](https://www.bicycle1885.org/blog/2020/blog-svg-test/)
+
 
 ### 高速化・並列計算
 - [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
