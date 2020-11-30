@@ -163,12 +163,12 @@
 
 ### 配色
 - [配色パターン集](https://webdesign-trends.net/entry/11846#3)
-- [夏のカラーコード](https://twitter.com/shin_5_9/status/1298108246029303809?s=20)
 - [Color Hunt](https://colorhunt.co/palettes/popular)
 - [HUE/360](https://hue360.herokuapp.com/)
 - [RGBと16進数カラーコードの相互変換ツール](https://www.peko-step.com/tool/tfcolor.html)
 
 ### フリー素材
 - [写真](https://www.pexels.com/ja-jp/)
+- [テスクチャ](https://www.beiz.jp/)
 - [ベクタ画像](https://publicdomainvectors.org/)
 - [アイコン](https://icooon-mono.com/)
