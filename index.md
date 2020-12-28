@@ -21,6 +21,33 @@
 - [The University of Texas at Austin](http://farside.ph.utexas.edu/teaching/329/lectures/lectures.html)
 - [Oregon State University](http://sites.science.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/)
 
+### 高速化・並列計算
+- [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
+- [OpenMP](https://www.nag-j.co.jp/openMP/openMPHelloOpenMP.html)
+- [計算科学技術特論B](https://www.r-ccs.riken.jp/library/event/tokuronB_2020.html)
+- [計算科学eラーニング](https://www.youtube.com/channel/UCIgMkEZoA5R_3StG1ZfjHvg/videos)
+
+## プログラミング
+
+### インストール
+- [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
+- [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
+- [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
+- [Julia](https://github.com/cometscome/Julianotes/blob/master/julianote.md#2-julia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+- [Jupyter Notebook](https://stat-you1025.blogspot.com/2020/08/jupyter-julia.html)
+- [Jupyter Notebook](https://nbviewer.jupyter.org/github/genkuroki/msfd28/blob/master/install.ipynb#IJulia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+- [gnuplot](http://www.compe.media.kyoto-u.ac.jp/syoseki/windows/windows-gnuplot.html)
+
+### コーディング
+- [Fortran](https://www.nag-j.co.jp/fortran/index.html)
+- [Julia](https://github.com/bicycle1885/Julia-Tutorial)
+- [Julia](https://github.com/cometscome/Julianotes/blob/master/julianote.md)
+- [Julia](https://qiita.com/cometscome_phys/items/31d0b811345a3e12fcef)
+
+### コーディング規約
+- [Fortran 標準コーディングルール](https://www.mri-jma.go.jp/Project/mrinpd/coderule.html)
+- [PEP8](https://pep8-ja.readthedocs.io/ja/latest/) (Python)
+
 ## お金
 
 ### インターン
@@ -70,13 +97,14 @@
 ### ソフトウェア
 - [リスト](https://en.m.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
 - [MateriApps](https://ma.issp.u-tokyo.ac.jp/app/)
+- [Materials Studio](https://www.comtec.daikin.co.jp/SC/ms/)
 - [Amber](https://ambermd.org/)
+- [VASP](https://www.vasp.at/)
 - [Gaussian](https://gaussian.com/)
 - [GAMESS](https://www.msg.chem.iastate.edu/gamess/)
-- [VASP](https://www.vasp.at/)
 - [CASINO](https://vallico.net/casinoqmc/)
-- [XDMC](https://github.com/miicck/xdmc)
 - [TurboRVB](https://people.sissa.it/~sorella/TurboRVB_Manual/build/html/index.html)
+- [XDMC](https://github.com/miicck/xdmc)
 
 ### オンライン数値計算
 - [リスト](http://acetaminophen.hatenablog.com/entry/2015/04/20/153903)
@@ -98,7 +126,6 @@
 - [Pseudopotential Library](https://pseudopotentiallibrary.org/)
 - [Energy-consistent pseudopotentials for QMC calculations](http://burkatzki.com/pseudos/index.2.html)
 
-
 ### 計算値・実験値データベース
 - [Computational Chemistry Comparison and Benchmark DataBase (各種物性, 計算値&実験値)](https://cccbdb.nist.gov/)
 - [Benchmark Energy & Geometry Database (エネルギー&構造)](http://www.begdb.com/index.php)
@@ -112,32 +139,13 @@
 - [The Materials Project](https://materialsproject.org/)
 - [AFLOW](http://www.aflow.org/)
 
-## プログラミング
-
-### インストール *加筆予定
-- [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
-- [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
-- [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
-- [Julia](https://github.com/cometscome/Julianotes/blob/master/julianote.md#2-julia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-- [Jupyter Notebook](https://stat-you1025.blogspot.com/2020/08/jupyter-julia.html)
-- [Jupyter Notebook](https://nbviewer.jupyter.org/github/genkuroki/msfd28/blob/master/install.ipynb#IJulia%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-- [gnuplot](http://www.compe.media.kyoto-u.ac.jp/syoseki/windows/windows-gnuplot.html)
-
-### コーディング *加筆予定
-- [Fortran](https://www.nag-j.co.jp/fortran/index.html)
-- [Julia](https://github.com/bicycle1885/Julia-Tutorial)
-- [Julia](https://github.com/cometscome/Julianotes/blob/master/julianote.md)
-- [Julia](https://qiita.com/cometscome_phys/items/31d0b811345a3e12fcef)
-
-### コーディング規約
-- [Fortran 標準コーディングルール](https://www.mri-jma.go.jp/Project/mrinpd/coderule.html)
-- [PEP8](https://pep8-ja.readthedocs.io/ja/latest/) (Python)
+## 可視化
 
 ### 可視化サンプル集
-- [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
 - [Demos for gnuplot](http://gnuplot.sourceforge.net/demo_5.4/)
-- [Gnuplot.jl](https://lazarusa.github.io/gnuplot-examples/gallery/)
 - [PlotsGallery.jl](https://github.com/goropikari/PlotsGallery.jl)
+- [Gnuplot.jl](https://lazarusa.github.io/gnuplot-examples/gallery/)
+- [The R Graph Gallery](https://www.r-graph-gallery.com/all-graphs)
 - [D3](https://observablehq.com/@d3/gallery)
 
 ### JavaScript 可視化ライブラリ
@@ -146,20 +154,15 @@
 - [3Dmol.js](https://omedstu.jimdofree.com/2018/03/04/3dmol-js%E3%81%A7%E3%81%AE%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%81%AE%E8%A1%A8%E7%A4%BA/)
 - [リスト](https://www.octoparse.jp/blog/top-30-data-visualization-tools/)
 
-### その他
-- [MathJax](https://www.mathjax.org/#gettingstarted)
-- [KaTeX](https://nshi.jp/contents/other/katex/)
-- [SVG](https://www.bicycle1885.org/blog/2020/blog-svg-test/)
+## デザイン
 
-
-### 高速化・並列計算
-- [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
-- [OpenMP](https://www.nag-j.co.jp/openMP/openMPHelloOpenMP.html)
-- [計算科学技術特論B](https://www.r-ccs.riken.jp/library/event/tokuronB_2020.html)
-- [計算科学eラーニング](https://www.youtube.com/channel/UCIgMkEZoA5R_3StG1ZfjHvg/videos)
-
-
-## プレゼンテーション
+### 参考
+- [sankoudesign.com](https://sankoudesign.com/)
+- [io3000.com](https://io3000.com/)
+- [81-web.com](https://81-web.com/)
+- [muuuuu.org](https://muuuuu.org/)
+- [siiimple.com](https://siiimple.com/)
+- [webdesignclip.com](https://www.webdesignclip.com/)
 
 ### 配色
 - [配色パターン集](https://webdesign-trends.net/entry/11846#3)
@@ -167,8 +170,14 @@
 - [HUE/360](https://hue360.herokuapp.com/)
 - [RGBと16進数カラーコードの相互変換ツール](https://www.peko-step.com/tool/tfcolor.html)
 
-### フリー素材
-- [写真](https://www.pexels.com/ja-jp/)
-- [テスクチャ](https://www.beiz.jp/)
-- [ベクタ画像](https://publicdomainvectors.org/)
-- [アイコン](https://icooon-mono.com/)
+### 画像
+- [pixels.com (写真)](https://www.pexels.com/ja-jp/)
+- [beiz.jp (テスクチャ)](https://www.beiz.jp/)
+- [publicdomainvectors.org (ベクタ画像)](https://publicdomainvectors.org/)
+- [icooon-mono.com (アイコン)](https://icooon-mono.com/)
+- [material.io (アイコン)](https://material.io/resources/icons/)
+
+### その他
+- [MathJax](https://www.mathjax.org/#gettingstarted)
+- [KaTeX](https://nshi.jp/contents/other/katex/)
+- [SVG](https://www.bicycle1885.org/blog/2020/blog-svg-test/)
