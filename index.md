@@ -15,7 +15,7 @@
 - [@cometscome_phys](https://qiita.com/cometscome_phys)
 - [Qiita](https://qiita.com/tags/%e6%95%b0%e5%80%a4%e8%a8%88%e7%ae%97)
 
-### 計算物理学入門
+### 講義
 - [Rutgers University](http://www.physics.rutgers.edu/grad/509/)
 - [University of Vienna](https://homepage.univie.ac.at/franz.vesely/cp_tut/nol2h/new/)
 - [The University of Texas at Austin](http://farside.ph.utexas.edu/teaching/329/lectures/lectures.html)
