@@ -157,6 +157,7 @@
 ## デザイン
 
 ### 参考
+- [スライドについて](http://tomoyukiarasuna.com/make-images/)
 - [sankoudesign.com](https://sankoudesign.com/)
 - [io3000.com](https://io3000.com/)
 - [81-web.com](https://81-web.com/)
