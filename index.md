@@ -16,10 +16,11 @@
 - [Qiita](https://qiita.com/tags/%e6%95%b0%e5%80%a4%e8%a8%88%e7%ae%97)
 
 ### 講義
-- [Rutgers University](http://www.physics.rutgers.edu/grad/509/)
-- [University of Vienna](https://homepage.univie.ac.at/franz.vesely/cp_tut/nol2h/new/)
-- [The University of Texas at Austin](http://farside.ph.utexas.edu/teaching/329/lectures/lectures.html)
-- [Oregon State University](http://sites.science.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/)
+- [Computational Physics (Rutgers University)](http://www.physics.rutgers.edu/grad/509/)
+- [Introduction to Computational Physics (University of Vienna)](https://homepage.univie.ac.at/franz.vesely/cp_tut/nol2h/new/)
+- [Computational Physics (The University of Texas at Austin)](http://farside.ph.utexas.edu/teaching/329/lectures/lectures.html)
+- [Computational Physics (Oregon State University)](http://sites.science.oregonstate.edu/~landaur/Books/CPbook/eBook/Lectures/)
+- [Numerical Methods in Quantum Mechanics (Istituto Nazionale di Fisica Nucleare)](http://www.fisica.uniud.it/~giannozz/Corsi/MQ/mq.html)
 
 ### 高速化・並列計算
 - [チューニング技法虎の巻](https://www.hpci-office.jp/pages/seminar_texts)
@@ -51,9 +52,9 @@
 ## お金
 
 ### インターン
-- [PCoMSイノベーション創出人材育成事業](http://pcoms.issp.u-tokyo.ac.jp/events/images/1w1skq)
+- [PCoMSイノベーション創出人材育成](http://pcoms.imr.tohoku.ac.jp/innovation/)
 
-### 奨学金
+###奨学金
 - [JASSOの奨学金](https://www.jasso.go.jp/shogakukin/index.html)
 - [返さなくていい給付型奨学金をくれる団体](https://xn--kus49bd41h.net/archives/67540341.html)
 - [学振](https://www.jsps.go.jp/j-pd/)
