@@ -54,7 +54,7 @@
 ### インターン
 - [PCoMSイノベーション創出人材育成](http://pcoms.imr.tohoku.ac.jp/innovation/)
 
-###奨学金
+### 奨学金
 - [JASSOの奨学金](https://www.jasso.go.jp/shogakukin/index.html)
 - [返さなくていい給付型奨学金をくれる団体](https://xn--kus49bd41h.net/archives/67540341.html)
 - [学振](https://www.jsps.go.jp/j-pd/)
