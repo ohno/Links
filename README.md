@@ -1,6 +1,7 @@
 # 数値計算リンク集
 
-数値計算に関連するリンク集を作成しました. おすすめのリンクがあったら[こちら](https://github.com/ohno/Links/issues)で教えてください.
+数値計算に関連するリンク集を作成しました. [こちら](https://ohno.github.io/link/)でHTML形式で閲覧できます.
+おすすめのリンクがあったら[こちら](https://github.com/ohno/Links/issues)で教えてください.
 
 ## 数値計算入門
 
