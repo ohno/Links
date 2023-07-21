@@ -32,6 +32,8 @@
 ## プログラミング
 
 ### インストール
+- [いろいろ](https://zenn.dev/ohno/books/356315a0e6437c)
+- [Julia and Jupyter Notebook](https://zenn.dev/ohno/articles/5ad94fb39a3948)
 - [Visual Studio Code](https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1)
 - [Visual Studio Code](https://twitter.com/EADGCGDA/status/1157655182110416896)
 - [Julia](https://note.com/pekipekky/n/ne65c04e76cf5)
